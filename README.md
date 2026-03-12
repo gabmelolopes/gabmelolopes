@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: gabmelolopes@gmail.com
 - 😄 Pronome: Ele/Dele
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmelolopes&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmelolopes&hide_progress=false)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
