@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: gabmelolopes@gmail.com
 - 😄 Pronome: Ele/Dele
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmelolopes&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000)
+
 
 
 
